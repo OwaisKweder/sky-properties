@@ -13,7 +13,7 @@ body{
     margin:0;
     overflow:hidden !important;
     font-family: 'Source Sans 3', sans-serif !important;
-    background: linear-gradient(rgba(1,1,1,.7), rgba(1, 1, 1, 0.6)), url("owaiskweder.github.io/sky-properties/src/assets/photos/dubai.jpg");
+    background: linear-gradient(rgba(1,1,1,.7), rgba(1, 1, 1, 0.6)), url("https://www.owaiskweder.github.io/sky-properties/src/assets/photos/dubai.jpg");
     background-position:center;
     background-size:cover;
     display:flex;
